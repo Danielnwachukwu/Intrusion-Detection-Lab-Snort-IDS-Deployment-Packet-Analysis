@@ -3,6 +3,7 @@
 
 ---
 
+
 ## 🧾 OVERVIEW
 
 This project simulates a real-world SOC environment by deploying a network-based Intrusion Detection System (IDS) using Snort on pfSense.
