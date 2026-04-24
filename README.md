@@ -84,7 +84,51 @@ HTTP anomalies detected instead
 Snort successfully detected reconnaissance activity
 HTTP inspection identified protocol anomalies
 SQL injection attempts were NOT directly detected
+## 📸 SCREENSHOTS
 
+---
+
+### 🔍 Nmap Scan Execution
+
+![Nmap Scan](screenshots/nmap_scan)
+
+---
+
+### 📡 Packet Capture (Traffic Visibility)
+
+![Packet Capture](screenshots/packet_capture)
+
+---
+
+### 🛡️ Snort IDS Running on pfSense
+
+![Snort Running](screenshots/snort_running)
+
+---
+
+### 🚨 Snort Detection of Nmap Activity
+
+![Snort Nmap Alert](screenshots/snort_nmap_alert)
+
+---
+
+### ⚠️ HTTP Anomaly Detection (Snort)
+
+![HTTP Anomaly](screenshots/snort_http_anomaly)
+
+---
+
+### 🌐 SQL Injection Interface (DVWA)
+
+![SQLi Interface](screenshots/Screenshot 2026-04-24 160052)
+
+---
+
+### 💥 SQL Injection Exploitation Results
+
+![SQLi Exploitation](screenshots/sqli_exploitation)
+
+---
 
 
 🔍 ROOT CAUSE ANALYSIS
